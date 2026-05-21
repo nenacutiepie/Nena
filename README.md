@@ -1,4 +1,4 @@
-# Neña Rose
+# Neña Rose Inajenes 
 # My portfolio 
 # 1st year IT student 
 

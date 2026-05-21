@@ -1,10 +1,12 @@
 # Neña Rose
 # My portfolio 
+# 1st year IT student 
 
 # About my self 
   My name is Neña Rose, and I am an IT student. I want to learn more about computers, especially coding, because I am still having difficulties and I want to improve. Someday, I hope to become a skilled web developer so I can help my parents and repay all their hard work and sacrifices for my education. I may not be very good yet, but I will do my best to learn and become successful.
 
-# IT student
+
+# Attitude 
 -mabait, masipag, maarte 
 
 -friendly 

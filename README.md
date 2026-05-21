@@ -6,6 +6,7 @@
 -friendly 
 
 "favorite food adobong manok"
+https://mamasitas.com/amp/recipe/adobong-manok.html
 
 "favorite drink's coke, milk tea"
 

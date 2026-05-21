@@ -1,4 +1,4 @@
-# Nena
+# Neña Rose
 # My portfolio 
 
 # IT student
@@ -19,4 +19,11 @@ https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.co
 
 -maraming pera 
 
+# My hobbies 
+-sleeping
+
+-cellphone
+
+# Status 
+- single
 

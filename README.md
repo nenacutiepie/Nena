@@ -14,6 +14,9 @@ https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.co
 
 # Goals 
 -mag karuon ng bahay na malaki
+
 -mag karuon ng kotse
+
 -maraming pera 
+
 

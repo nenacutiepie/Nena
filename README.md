@@ -7,9 +7,9 @@
 
 
 # Attitude 
--kind, hardworking, Understanding 
+- kind, hardworking, Understanding 
 
--friendly 
+- friendly 
 
 # favorite food adobong manok
 https://mamasitas.com/amp/recipe/adobong-manok.html
@@ -24,19 +24,19 @@ https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.co
 
 - knows how to code
 
--Have a big house
+- Have a big house
 
--Have a car
+- Have a car
 
--Have a lot of money
+-vHave a lot of money
 
 
 # My hobbies 
--sleeping
+- sleeping
 
--cellphone
+- cellphone
 
--dancing
+- dancing
 
 # Status 
 - single
